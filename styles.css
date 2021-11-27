@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+h1{
+   
+    color: white;
+}
+article{
+   float: right;
+    padding: 20px;
+    width: 60%;
+    background-color: white;
+   
+}
+p{
+    color: aliceblue;
+}
+strong{
+    color:greenyellow;
+}
+i{
+   
+    color: white;
+}
+h2{
+    color: aliceblue;
+}
+h3{
+    color: aliceblue;
+}
